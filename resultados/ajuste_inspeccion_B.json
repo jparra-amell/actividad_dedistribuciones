@@ -1,0 +1,12 @@
+{
+  "variable": "inspeccion_B",
+  "distribucion": "Lognormal",
+  "parametros": "μ=1.615, σ=0.164",
+  "scipy": "lognorm",
+  "args": [
+    0.16404011888516767,
+    0.0,
+    5.0257358134976755
+  ],
+  "flexsim": "lognormal2(0.00, 5.03, 0.1640, getstream(current))"
+}

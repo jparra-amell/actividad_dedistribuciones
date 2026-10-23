@@ -1,0 +1,12 @@
+{
+  "variable": "lavado_C",
+  "distribucion": "Weibull",
+  "parametros": "forma=2.050, escala=3.083",
+  "scipy": "weibull_min",
+  "args": [
+    2.0497673132539944,
+    0.0,
+    3.0825023843621486
+  ],
+  "flexsim": "weibull(0.00, 3.08, 2.0498, getstream(current))"
+}

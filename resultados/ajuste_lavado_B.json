@@ -1,0 +1,12 @@
+{
+  "variable": "lavado_B",
+  "distribucion": "Gamma",
+  "parametros": "α=3.145, β=1.318",
+  "scipy": "gamma",
+  "args": [
+    3.145123340424104,
+    0.0,
+    1.3179663300923874
+  ],
+  "flexsim": "gamma(0.00, 1.32, 3.1451, getstream(current))"
+}

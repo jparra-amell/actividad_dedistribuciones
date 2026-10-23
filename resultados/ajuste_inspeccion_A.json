@@ -1,0 +1,11 @@
+{
+  "variable": "inspeccion_A",
+  "distribucion": "Normal",
+  "parametros": "μ=7.729, σ=1.435",
+  "scipy": "norm",
+  "args": [
+    7.7292,
+    1.4353986763265458
+  ],
+  "flexsim": "normal(7.7292, 1.4354, getstream(current))"
+}

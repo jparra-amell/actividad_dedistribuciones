@@ -1,0 +1,12 @@
+{
+  "variable": "lavado_A",
+  "distribucion": "Erlang",
+  "parametros": "k=6, β=0.485",
+  "scipy": "gamma",
+  "args": [
+    6.0,
+    0.0,
+    0.48469999999999996
+  ],
+  "flexsim": "erlang(0.00, 0.48, 6, getstream(current))"
+}

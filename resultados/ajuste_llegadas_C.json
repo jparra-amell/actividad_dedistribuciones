@@ -1,0 +1,12 @@
+{
+  "variable": "llegadas_C",
+  "distribucion": "Weibull",
+  "parametros": "forma=1.241, escala=7.631",
+  "scipy": "weibull_min",
+  "args": [
+    1.240792770042602,
+    0.0,
+    7.630512408349406
+  ],
+  "flexsim": "weibull(0.00, 7.63, 1.2408, getstream(current))"
+}
